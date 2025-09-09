@@ -50,4 +50,3 @@ This project demonstrates the **Central Limit Theorem (CLT)** by simulating 1D r
 * **Central Limit Theorem (CLT)**
 * **Euler–Cromer step integration** for cumulative steps
 
-```
