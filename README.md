@@ -1,4 +1,4 @@
-````markdown
+
 # 🚶 Central Limit Theorem in Discrete Random Walks
 
 This project demonstrates the **Central Limit Theorem (CLT)** by simulating 1D random walks and analyzing the distribution of walker positions.
