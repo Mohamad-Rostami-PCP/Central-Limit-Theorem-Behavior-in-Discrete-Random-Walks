@@ -36,9 +36,9 @@ This project demonstrates the **Central Limit Theorem (CLT)** by simulating 1D r
 
 * Variance grows linearly with steps:
 
-  $$
+
   \langle x^2 \rangle \sim N
-  $$
+
 
 
 * Distribution approaches Gaussian by CLT.
